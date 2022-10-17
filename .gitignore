@@ -1,2 +1,4 @@
 node_modules/
 .DS-Store/
+examples/
+package-lock.json
